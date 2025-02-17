@@ -10,11 +10,15 @@
 
     <div class="container">
         <div class="kotak1"><h2>1</h2></div>
-        <div class="kotak2"><h2>2</h2></div>
-        <div class="kotak2"><h2>2</h2></div>
-        <div class="kotak3"><h2>3</h2></div>
-        <div class="kotak3"><h2>3</h2></div>
-        <div class="kotak3"><h2>3</h2></div>
+        <div class="kotak2">
+        <h2>2</h2>
+        <h2>2</h2>
+        </div>
+        <div class="kotak3">
+        <h2>3</h2>
+        <h2>3</h2>
+        <h2>3</h2>
+        </div>
     </div>
 
 </body>
