@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+h2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: solid 2px;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+}
+
