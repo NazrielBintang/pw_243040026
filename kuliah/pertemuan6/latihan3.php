@@ -5,7 +5,8 @@
 
 $mahasiswa = [
     [ 'Nazriel', '243040026', 'nazrielbintang052gmail.com', 'Teknik Informatika'], 
-    [ 'Agung', '243040020', 'agung@gmail.com', 'Teknik Industri', [85, 100, 40]]
+    [ 'Agung', '243040020', 'agung@gmail.com', 'Teknik Industri'],
+    [ 'Erik, 104030001, Teknik Informatika, erik@gmail.com']
 ];
 
 // echo $mahasiswa[1][4][2];
